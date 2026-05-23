@@ -52,8 +52,8 @@ public class FCFS {
         }
 
         System.out.println("\nTotal Waiting Time: " + totalWaitingTime);
-        System.out.println("Average Waiting Time (AVWT): " + averageWaitingTime);
-        System.out.println("Average Turnaround Time (AVTAT): " + averageTurnaroundTime);
+        System.out.println("Average Waiting Time (AVGWT): " + averageWaitingTime);
+        System.out.println("Average Turnaround Time (AVGTAT): " + averageTurnaroundTime);
 
         System.out.println("\n- Gantt Chart -");
 
