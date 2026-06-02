@@ -10,7 +10,7 @@ A comprehensive Java-based simulator that implements various Central Processing 
    * **Non-Preemptive:** Selects the process with the shortest burst time execution.
    * **Preemptive (SRTF - Shortest Remaining Time First):** Interrupts the current process if a new process arrives with a shorter remaining burst time. Includes a dynamic **Gantt Chart** generator.
 3. **Priority Scheduling (Non-Preemptive)**
-   * Schedules processes based on priority weights (Lower priority  = Higher importance).
+   * Schedules processes based on priority weights ( Lower priority  = Higher importance ).
 4. **Round Robin (RR)**
    * Cyclic executive algorithm using time slices (Time Quantum) to ensure fair CPU time distribution.
 
