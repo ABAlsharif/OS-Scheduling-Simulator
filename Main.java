@@ -9,7 +9,7 @@ public class Main {
         int numProcesses = scanner.nextInt();
 
         for (int i = 1; i <= numProcesses; i++) {
-            System.out.print("Enter burst time for P" + i + ": ");
+            System.out.print("Enter burst time for P " + i + ": ");
             int bt = scanner.nextInt();
 
             System.out.print("Enter priority for P" + i + ": ");
