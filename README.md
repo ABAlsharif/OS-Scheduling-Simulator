@@ -1,6 +1,6 @@
 # OS Scheduling Simulator
 
-A comprehensive Java-based simulator that implements various Central Processing Unit (CPU) scheduling algorithms. This project demonstrates core Operating Systems (OS) concepts, including process management, scheduling criteria, and performance evaluation metrics like Average Waiting Time (AVGWT) and Average Turnaround Time (AVTAT).
+A comprehensive Java-based simulator that implements various Central Processing Unit (CPU) scheduling algorithms. This project demonstrates core Operating Systems (OS) concepts, including process management, scheduling criteria, and performance evaluation metrics like Average Waiting Time (AVGWT) and Average Turnaround Time (AVGTAT).
 
 ## 🚀 Implemented Algorithms
 
